@@ -5,9 +5,9 @@ draft: false
 title: Student Notes
 uid: b93c06e3-f425-4105-842c-cf60376de18f
 ---
-Complete Set of Notes in One File (PDF) (TEX)
+Complete Set of Notes in One File (PDF) (TEX), Images Associated with the LaTex File (ZIP) 
 
-Images Associated with the LaTex File (ZIP) 
+ 
 
 Lecture 1: Groups (PDF) (TEX)
 
