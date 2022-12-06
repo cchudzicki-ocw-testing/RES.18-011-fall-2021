@@ -7,8 +7,6 @@ uid: b93c06e3-f425-4105-842c-cf60376de18f
 ---
 Complete Set of Notes in One File (PDF)
 
- 
-
 Lecture 1: Groups (PDF)
 
 Lecture 2: Subgroups and Cyclic Groups (PDF)
@@ -65,7 +63,7 @@ Lecture 27: Euclidean and Hermitian Spaces (PDF)
 
 Lecture 28: The Spectral Theorem (PDF)
 
-Lecture 29: Geometry of \\(SU\_2\\) (PDF)
+Lecture 29: Geometry of \\(SU_2\\) (PDF)
 
 Lecture 31: One-Parameter Subgroups (PDF)
 
