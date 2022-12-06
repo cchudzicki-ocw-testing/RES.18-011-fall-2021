@@ -17,7 +17,7 @@ Lecture 3: Homomorphisms and Isomorphisms (PDF) (TEX)
 
 Lecture 4: Isomorphisms and Cosets (PDF) (TEX)
 
-Lecture 5: The Correspondence Theorem (PDF)v
+Lecture 5: The Correspondence Theorem (PDF) (TEX)
 
 Lecture 6: Quotient Groups (PDF) (TEX)
 
