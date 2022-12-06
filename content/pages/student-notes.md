@@ -65,7 +65,7 @@ Lecture 27: Euclidean and Hermitian Spaces (PDF)
 
 Lecture 28: The Spectral Theorem (PDF)
 
-Lecture 29: Geometry of **SU2** (PDF)
+Lecture 29: Geometry of \\(SU\_2\\) (PDF)
 
 Lecture 31: One-Parameter Subgroups (PDF)
 
