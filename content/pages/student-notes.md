@@ -65,6 +65,8 @@ Lecture 28: The Spectral Theorem (PDF)
 
 Lecture 29: Geometry of \\(SU_2\\) (PDF)
 
+Lecture 30: The Special Unitary Group and One-Parameter Groups
+
 Lecture 31: One-Parameter Subgroups (PDF)
 
 Lecture 32: More About One-Parameter Subgroups (PDF)
