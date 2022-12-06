@@ -9,6 +9,8 @@ Complete Set of Notes in One File (PDF)
 
 Complete Set of Notes in One File (TEX)
 
+Images Associated with the LaTex File (ZIP) 
+
 Lecture 1: Groups (PDF)
 
 Lecture 1: Groups (TEX)
