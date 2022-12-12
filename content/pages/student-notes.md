@@ -5,7 +5,7 @@ draft: false
 title: Student Notes
 uid: b93c06e3-f425-4105-842c-cf60376de18f
 ---
-Complete Set of Notes in One File (PDF) (TEX), Images Associated with the LaTex File (ZIP) 
+Complete Set of Algebra I Notes in One File (PDF) (TEX), Images Associated with the LaTex File (ZIP) 
 
  
 
