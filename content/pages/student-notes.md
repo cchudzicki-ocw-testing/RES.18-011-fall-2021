@@ -25,7 +25,7 @@ Lecture 8: Dimension Formula (PDF) ({{% resource_link "b5727994-e748-418b-9045-4
 
 Lecture 9: Dimension Formula (continued) (PDF) (TEX)
 
-Lecture 10: Eigenbases and the Jordan Form (PDF) (TEX)
+Lecture 10: Eigenbases and the Jordan Form (PDF) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
 
 Lecture 11: The Jordan Decomposition (PDF) ({{% resource_link "7daf9993-f4eb-4d5c-908a-be2dc263d9b6" "TEX" %}})
 
@@ -33,17 +33,17 @@ Lecture 12: Orthogonal Matrices (PDF) ({{% resource_link "8df8d30f-7254-432c-8d0
 
 Lecture 13: Isometries (PDF) ({{% resource_link "06e0b565-0f5d-4cf1-b4ac-dcac12440134" "TEX" %}})
 
-Lecture 14: Symmetry Groups (PDF) (TEX)
+Lecture 14: Symmetry Groups (PDF) ({{% resource_link "e867c2c6-1025-4690-94d3-63b0cff64612" "TEX" %}})
 
 Lecture 15: Finite and Discrete Subgroups (PDF) ({{% resource_link "3d453e34-2544-49fe-a98e-a96a618ef673" "TEX" %}})
 
-Lecture 16: Discrete Groups (PDF) (TEX)
+Lecture 16: Discrete Groups (PDF) ({{% resource_link "ac0d8dc1-63b2-471a-b386-aa5e3f8ea7ee" "TEX" %}})
 
 Lecture 17: Group Actions (PDF) ({{% resource_link "158450be-af9e-48af-99b8-c1f26b46bd65" "TEX" %}})
 
-Lecture 18: Stabilizer (PDF) (TEX)
+Lecture 18: Stabilizer (PDF) ({{% resource_link "127ea364-643b-4b0e-8eec-47318e3caa54" "TEX" %}})
 
-Lecture 19: Group Actions on G (PDF) (TEX)
+Lecture 19: Group Actions on G (PDF) ({{% resource_link "2efca5b8-d1c7-499c-951f-8d82e8f3caf4" "TEX" %}})
 
 Lecture 20: The Icosahedral Group (PDF) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
 
