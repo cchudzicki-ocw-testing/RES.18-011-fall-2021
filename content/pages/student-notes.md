@@ -15,15 +15,15 @@ Lecture 3: Homomorphisms and Isomorphisms (PDF) ({{% resource_link "380e93a0-352
 
 Lecture 4: Isomorphisms and Cosets (PDF) ({{% resource_link "07f4bead-87af-4fda-adab-7a52707b4797" "TEX" %}})
 
-Lecture 5: The Correspondence Theorem (PDF) (TEX)
+Lecture 5: The Correspondence Theorem (PDF) ({{% resource_link "94b0ba9a-e478-4b78-bbaa-01fdce7047a3" "TEX" %}})
 
 Lecture 6: Normal Subgroups and Quotient Groups (PDF) ({{% resource_link "74b5fb49-5fa9-4f63-b443-00bbf171c295" "TEX" %}})
 
-Lecture 7: Fields and Vector Spaces (PDF) (TEX)
+Lecture 7: Fields and Vector Spaces (PDF) ({{% resource_link "147eff93-19c5-4954-8419-f8250057586a" "TEX" %}})
 
 Lecture 8: Dimension Formula (PDF) ({{% resource_link "b5727994-e748-418b-9045-439c8a5115ac" "TEX" %}})
 
-Lecture 9: Dimension Formula (continued) (PDF) (TEX)
+Lecture 9: Dimension Formula (continued) (PDF) ({{% resource_link "43b2f662-7ee3-4def-93d4-7012165dc7a8" "TEX" %}})
 
 Lecture 10: Eigenbases and the Jordan Form (PDF) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
 
@@ -65,14 +65,14 @@ Lecture 28: The Spectral Theorem (PDF) ({{% resource_link "4aa08fb1-c54c-4d57-96
 
 Lecture 29: Linear Groups (PDF) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
 
-Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) (TEX)
+Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
 
-Lecture 31: One-Parameter Subgroups (PDF) (TEX)
+Lecture 31: One-Parameter Subgroups (PDF) ({{% resource_link "0e22af3c-690e-4dd4-ac70-2b3a10eebb54" "TEX" %}})
 
-Lecture 32: One-Parameter Subgroups (cont.) (PDF) (TEX)
+Lecture 32: One-Parameter Subgroups (cont.) (PDF) ({{% resource_link "909510f2-852f-4d0b-b6d9-2667700424d5" "TEX" %}})
 
-Lecture 33: Lie Groups (PDF) (TEX)
+Lecture 33: Lie Groups (PDF) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
 
-Lecture 34: Simple Linear Groups (PDF) (TEX)
+Lecture 34: Simple Linear Groups (PDF) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
 
-Lecture 35: Hilbert’s Third Problem (PDF) (TEX)
+Lecture 35: Hilbert’s Third Problem (PDF) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
