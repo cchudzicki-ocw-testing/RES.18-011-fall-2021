@@ -9,7 +9,7 @@ Complete Set of Algebra I Notes in One File (PDF) {{% resource_link "cd8116a5-ff
 
 Lecture 1: Groups (PDF) ({{% resource_link "a3d293ad-a504-4908-b8d4-cff9a19767ab" "TEX" %}})
 
-Lecture 2: Subgroups and Cyclic Groups (PDF) (TEX)
+Lecture 2: Subgroups and Cyclic Groups (PDF) ({{% resource_link "cda44962-8cd7-4ad1-8ad8-eebcbb5ac90b" "TEX" %}})
 
 Lecture 3: Homomorphisms and Isomorphisms (PDF) ({{% resource_link "380e93a0-352a-45d5-b7f6-0c98fa82089c" "TEX" %}})
 
@@ -45,25 +45,25 @@ Lecture 18: Stabilizer (PDF) (TEX)
 
 Lecture 19: Group Actions on G (PDF) (TEX)
 
-Lecture 20: The Icosahedral Group (PDF) (TEX)
+Lecture 20: The Icosahedral Group (PDF) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
 
-Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups (PDF) (TEX)
+Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups (PDF) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
 
-Lecture 22: The Sylow Theorems (PDF) (TEX)
+Lecture 22: The Sylow Theorems (PDF) ({{% resource_link "3238c3e0-c507-414b-9b2c-ffd8160fce49" "TEX" %}})
 
-Lecture 23: Proofs and Applications of the Sylow Theorems (PDF) (TEX)
+Lecture 23: Proofs and Applications of the Sylow Theorems (PDF) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
 
-Lecture 24: Bilinear Forms (PDF) (TEX)
+Lecture 24: Bilinear Forms (PDF) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
 
-Lecture 25: Orthogonality (PDF) (TEX)
+Lecture 25: Orthogonality (PDF) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
 
-Lecture 26: The Projection Formula (PDF) (TEX)
+Lecture 26: The Projection Formula (PDF) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
 
-Lecture 27: Euclidean and Hermitian Spaces (PDF) (TEX)
+Lecture 27: Euclidean and Hermitian Spaces (PDF) ({{% resource_link "5b7cb0cd-208d-4f32-9be7-48963670aac8" "TEX" %}})
 
-Lecture 28: The Spectral Theorem (PDF) (TEX)
+Lecture 28: The Spectral Theorem (PDF) ({{% resource_link "4aa08fb1-c54c-4d57-9660-43014c6ce7e0" "TEX" %}})
 
-Lecture 29: Linear Groups (PDF) (TEX)
+Lecture 29: Linear Groups (PDF) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
 
 Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) (TEX)
 
