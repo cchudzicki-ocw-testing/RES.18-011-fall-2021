@@ -25,33 +25,33 @@ Lecture 8: Dimension Formula ({{% resource_link "c0b08522-5b84-4db5-9863-af07b69
 
 Lecture 9: Dimension Formula (continued) ({{% resource_link "fffd2b30-7cba-4839-be01-987cfdf56f76" "PDF" %}}) ({{% resource_link "43b2f662-7ee3-4def-93d4-7012165dc7a8" "TEX" %}})
 
-Lecture 10: Eigenbases and the Jordan Form (PDF) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
+Lecture 10: Eigenbases and the Jordan Form ({{% resource_link "7fbde885-3c6a-45d2-94b9-72e60be39cd6" "PDF" %}}) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
 
-Lecture 11: The Jordan Decomposition (PDF) ({{% resource_link "7daf9993-f4eb-4d5c-908a-be2dc263d9b6" "TEX" %}})
+Lecture 11: The Jordan Decomposition ({{% resource_link "7fe91223-4935-4ee6-9fdb-2cab5c3d6819" "PDF" %}}) ({{% resource_link "7daf9993-f4eb-4d5c-908a-be2dc263d9b6" "TEX" %}})
 
-Lecture 12: Orthogonal Matrices (PDF) ({{% resource_link "8df8d30f-7254-432c-8d0c-c9da7bc4a730" "TEX" %}})
+Lecture 12: Orthogonal Matrices ({{% resource_link "fb6b04a3-dd0b-4805-82cd-afa830e08cf4" "PDF" %}}) ({{% resource_link "8df8d30f-7254-432c-8d0c-c9da7bc4a730" "TEX" %}})
 
-Lecture 13: Isometries (PDF) ({{% resource_link "06e0b565-0f5d-4cf1-b4ac-dcac12440134" "TEX" %}})
+Lecture 13: Isometries ({{% resource_link "ab5502fb-6e37-45e7-a29f-fc81f0d33db4" "PDF" %}}) ({{% resource_link "06e0b565-0f5d-4cf1-b4ac-dcac12440134" "TEX" %}})
 
-Lecture 14: Symmetry Groups (PDF) ({{% resource_link "e867c2c6-1025-4690-94d3-63b0cff64612" "TEX" %}})
+Lecture 14: Symmetry Groups ({{% resource_link "d5c4b93b-27ac-4de0-9a9d-99b60ec1717f" "PDF" %}}) ({{% resource_link "e867c2c6-1025-4690-94d3-63b0cff64612" "TEX" %}})
 
-Lecture 15: Finite and Discrete Subgroups (PDF) ({{% resource_link "3d453e34-2544-49fe-a98e-a96a618ef673" "TEX" %}})
+Lecture 15: Finite and Discrete Subgroups ({{% resource_link "a09639c3-8ec7-4251-9d87-bf5d75bbd4fe" "PDF" %}}) ({{% resource_link "3d453e34-2544-49fe-a98e-a96a618ef673" "TEX" %}})
 
-Lecture 16: Discrete Groups (PDF) ({{% resource_link "ac0d8dc1-63b2-471a-b386-aa5e3f8ea7ee" "TEX" %}})
+Lecture 16: Discrete Groups ({{% resource_link "470f22b5-fd02-43dd-9429-88be2ccaeec8" "PDF" %}}) ({{% resource_link "ac0d8dc1-63b2-471a-b386-aa5e3f8ea7ee" "TEX" %}})
 
-Lecture 17: Group Actions (PDF) ({{% resource_link "158450be-af9e-48af-99b8-c1f26b46bd65" "TEX" %}})
+Lecture 17: Group Actions ({{% resource_link "cb56ee5a-b1d2-4c72-9170-f37268b1bb4b" "PDF" %}}) ({{% resource_link "158450be-af9e-48af-99b8-c1f26b46bd65" "TEX" %}})
 
-Lecture 18: Stabilizer (PDF) ({{% resource_link "127ea364-643b-4b0e-8eec-47318e3caa54" "TEX" %}})
+Lecture 18: Stabilizer ({{% resource_link "63c59b15-0684-4e39-ad5e-66252ba9ef54" "PDF" %}}) ({{% resource_link "127ea364-643b-4b0e-8eec-47318e3caa54" "TEX" %}})
 
-Lecture 19: Group Actions on G (PDF) ({{% resource_link "2efca5b8-d1c7-499c-951f-8d82e8f3caf4" "TEX" %}})
+Lecture 19: Group Actions on G ({{% resource_link "66843b17-d018-4679-9282-b44b070100e6" "PDF" %}}) ({{% resource_link "2efca5b8-d1c7-499c-951f-8d82e8f3caf4" "TEX" %}})
 
-Lecture 20: The Icosahedral Group (PDF) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
+Lecture 20: The Icosahedral Group ({{% resource_link "2ff3303a-69c6-41ce-9017-5f9ec3d2b10a" "PDF" %}}) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
 
-Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups (PDF) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
+Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups ({{% resource_link "31e028b3-3a49-40f9-8e44-0dc473f32e52" "PDF" %}}) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
 
-Lecture 22: The Sylow Theorems (PDF) ({{% resource_link "3238c3e0-c507-414b-9b2c-ffd8160fce49" "TEX" %}})
+Lecture 22: The Sylow Theorems ({{% resource_link "0bd46ac7-353c-4213-b7d9-a82a17304999" "PDF" %}}) ({{% resource_link "3238c3e0-c507-414b-9b2c-ffd8160fce49" "TEX" %}})
 
-Lecture 23: Proofs and Applications of the Sylow Theorems (PDF) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
+Lecture 23: Proofs and Applications of the Sylow Theorems ({{% resource_link "2ade6f2e-1fda-402a-88a3-fccb1889b3ca" "PDF" %}}) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
 
 Lecture 24: Bilinear Forms (PDF) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
 
