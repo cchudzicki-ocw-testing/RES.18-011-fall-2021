@@ -55,7 +55,7 @@ Lecture 23: Proofs and Applications of the Sylow Theorems ({{% resource_link "2a
 
 Lecture 24: Bilinear Forms ({{% resource_link "b74260cf-294a-479e-bfda-54d2d95b27ec" "PDF" %}}) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
 
-Lecture 25: Orthogonality (PDF) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
+Lecture 25: Orthogonality ({{% resource_link "6db965d4-995d-4957-b6f1-09e3de6b2f18" "PDF" %}}) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
 
 Lecture 26: The Projection Formula ({{% resource_link "53f9f02b-f8a4-44e1-9eb9-60523db8843d" "PDF" %}}) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
 
