@@ -5,25 +5,25 @@ draft: false
 title: Student Notes
 uid: b93c06e3-f425-4105-842c-cf60376de18f
 ---
-Complete Set of Algebra I Notes in One File (PDF), {{% resource_link "cd8116a5-ff23-422e-a258-986405371840" "TEX and associated images (ZIP) " %}} 
+Complete Set of Algebra I Notes in One File ({{% resource_link "fd277863-8b92-4b85-936d-8fc84c7c1fd4" "PDF" %}}), TEX files and associated images ({{% resource_link "cd8116a5-ff23-422e-a258-986405371840" "ZIP" %}})
 
-Lecture 1: Groups (PDF) ({{% resource_link "a3d293ad-a504-4908-b8d4-cff9a19767ab" "TEX" %}})
+Lecture 1: Groups ({{% resource_link "d2912b22-ad88-48d8-8962-0a1044e9d601" "PDF" %}}) ({{% resource_link "a3d293ad-a504-4908-b8d4-cff9a19767ab" "TEX" %}})
 
-Lecture 2: Subgroups and Cyclic Groups (PDF) ({{% resource_link "cda44962-8cd7-4ad1-8ad8-eebcbb5ac90b" "TEX" %}})
+Lecture 2: Subgroups and Cyclic Groups ({{% resource_link "5ccc37ba-1678-4049-ab52-2b02e7af3cdc" "PDF" %}}) ({{% resource_link "cda44962-8cd7-4ad1-8ad8-eebcbb5ac90b" "TEX" %}})
 
-Lecture 3: Homomorphisms and Isomorphisms (PDF) ({{% resource_link "380e93a0-352a-45d5-b7f6-0c98fa82089c" "TEX" %}})
+Lecture 3: Homomorphisms and Isomorphisms ({{% resource_link "f537d1fe-5e80-448f-a505-ab847583f7a4" "PDF" %}}) ({{% resource_link "380e93a0-352a-45d5-b7f6-0c98fa82089c" "TEX" %}})
 
-Lecture 4: Isomorphisms and Cosets (PDF) ({{% resource_link "07f4bead-87af-4fda-adab-7a52707b4797" "TEX" %}})
+Lecture 4: Isomorphisms and Cosets ({{% resource_link "0f341810-34ba-4095-b79d-90c27de12677" "PDF" %}}) ({{% resource_link "07f4bead-87af-4fda-adab-7a52707b4797" "TEX" %}})
 
-Lecture 5: The Correspondence Theorem (PDF) ({{% resource_link "94b0ba9a-e478-4b78-bbaa-01fdce7047a3" "TEX" %}})
+Lecture 5: The Correspondence Theorem ({{% resource_link "7dcfe59d-b91e-49dc-82fd-d5a1153caae8" "PDF" %}}) ({{% resource_link "94b0ba9a-e478-4b78-bbaa-01fdce7047a3" "TEX" %}})
 
-Lecture 6: Normal Subgroups and Quotient Groups (PDF) ({{% resource_link "74b5fb49-5fa9-4f63-b443-00bbf171c295" "TEX" %}})
+Lecture 6: Normal Subgroups and Quotient Groups ({{% resource_link "4f1adc52-df6a-45f8-ae85-1c429ab43ba9" "PDF" %}}) ({{% resource_link "74b5fb49-5fa9-4f63-b443-00bbf171c295" "TEX" %}})
 
-Lecture 7: Fields and Vector Spaces (PDF) ({{% resource_link "147eff93-19c5-4954-8419-f8250057586a" "TEX" %}})
+Lecture 7: Fields and Vector Spaces ({{% resource_link "9ce242b1-b16c-4d2d-996d-ba4a0452aa53" "PDF" %}}) ({{% resource_link "147eff93-19c5-4954-8419-f8250057586a" "TEX" %}})
 
-Lecture 8: Dimension Formula (PDF) ({{% resource_link "b5727994-e748-418b-9045-439c8a5115ac" "TEX" %}})
+Lecture 8: Dimension Formula ({{% resource_link "c0b08522-5b84-4db5-9863-af07b690d7ad" "PDF" %}}) ({{% resource_link "b5727994-e748-418b-9045-439c8a5115ac" "TEX" %}})
 
-Lecture 9: Dimension Formula (continued) (PDF) ({{% resource_link "43b2f662-7ee3-4def-93d4-7012165dc7a8" "TEX" %}})
+Lecture 9: Dimension Formula (continued) ({{% resource_link "fffd2b30-7cba-4839-be01-987cfdf56f76" "PDF" %}}) ({{% resource_link "43b2f662-7ee3-4def-93d4-7012165dc7a8" "TEX" %}})
 
 Lecture 10: Eigenbases and the Jordan Form (PDF) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
 
