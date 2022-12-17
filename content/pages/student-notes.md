@@ -53,26 +53,26 @@ Lecture 22: The Sylow Theorems ({{% resource_link "0bd46ac7-353c-4213-b7d9-a82a1
 
 Lecture 23: Proofs and Applications of the Sylow Theorems ({{% resource_link "2ade6f2e-1fda-402a-88a3-fccb1889b3ca" "PDF" %}}) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
 
-Lecture 24: Bilinear Forms (PDF) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
+Lecture 24: Bilinear Forms ({{% resource_link "b74260cf-294a-479e-bfda-54d2d95b27ec" "PDF" %}}) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
 
 Lecture 25: Orthogonality (PDF) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
 
-Lecture 26: The Projection Formula (PDF) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
+Lecture 26: The Projection Formula ({{% resource_link "53f9f02b-f8a4-44e1-9eb9-60523db8843d" "PDF" %}}) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
 
-Lecture 27: Euclidean and Hermitian Spaces (PDF) ({{% resource_link "5b7cb0cd-208d-4f32-9be7-48963670aac8" "TEX" %}})
+Lecture 27: Euclidean and Hermitian Spaces ({{% resource_link "4b7568fc-83c8-4862-9df8-8b2c44b279f1" "PDF" %}}) ({{% resource_link "5b7cb0cd-208d-4f32-9be7-48963670aac8" "TEX" %}})
 
-Lecture 28: The Spectral Theorem (PDF) ({{% resource_link "4aa08fb1-c54c-4d57-9660-43014c6ce7e0" "TEX" %}})
+Lecture 28: The Spectral Theorem ({{% resource_link "6e66699d-f569-492d-8415-c0fd21bf74dc" "PDF" %}}) ({{% resource_link "4aa08fb1-c54c-4d57-9660-43014c6ce7e0" "TEX" %}})
 
-Lecture 29: Linear Groups (PDF) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
+Lecture 29: Linear Groups ({{% resource_link "647630d8-6f78-484b-ab3e-1e46e8eb0e83" "PDF" %}}) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
 
-Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
+Lecture 30: The Special Unitary Group \\(SU_2\\) ({{% resource_link "ab59e840-7383-480d-bbd0-962bb6967e19" "PDF" %}}) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
 
-Lecture 31: One-Parameter Subgroups (PDF) ({{% resource_link "0e22af3c-690e-4dd4-ac70-2b3a10eebb54" "TEX" %}})
+Lecture 31: One-Parameter Subgroups ({{% resource_link "58bb3863-98fd-41f0-a55a-614e515f9239" "PDF" %}}) ({{% resource_link "0e22af3c-690e-4dd4-ac70-2b3a10eebb54" "TEX" %}})
 
-Lecture 32: One-Parameter Subgroups (cont.) (PDF) ({{% resource_link "909510f2-852f-4d0b-b6d9-2667700424d5" "TEX" %}})
+Lecture 32: One-Parameter Subgroups (cont.) ({{% resource_link "fea54a10-07ea-401b-8b9f-d97d1b4fc533" "PDF" %}}) ({{% resource_link "909510f2-852f-4d0b-b6d9-2667700424d5" "TEX" %}})
 
-Lecture 33: Lie Groups (PDF) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
+Lecture 33: Lie Groups ({{% resource_link "2c024fc4-accd-4826-a4a0-4d7743257c60" "PDF" %}}) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
 
-Lecture 34: Simple Linear Groups (PDF) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
+Lecture 34: Simple Linear Groups ({{% resource_link "cae77f5c-b39c-4e2f-a71c-1a921d501d38" "PDF" %}}) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
 
-Lecture 35: Hilbert’s Third Problem (PDF) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
+Lecture 35: Hilbert’s Third Problem ({{% resource_link "f97fe3a9-55da-4a30-bf54-fea365cbcd51" "PDF" %}}) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
