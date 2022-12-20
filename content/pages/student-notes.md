@@ -73,6 +73,6 @@ Lecture 32: One-Parameter Subgroups (cont.) ({{% resource_link "fea54a10-07ea-40
 
 Lecture 33: Lie Groups ({{% resource_link "2c024fc4-accd-4826-a4a0-4d7743257c60" "PDF" %}}) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
 
-Lecture 34: Simple Linear Groups ({{% resource_link "cae77f5c-b39c-4e2f-a71c-1a921d501d38" "PDF" %}}) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
+Lecture 34: Simple Linear Groups ({{% resource_link "991fcbe2-0ae9-4471-8432-d72e4bc7af80" "PDF" %}}) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
 
 Lecture 35: Hilbert’s Third Problem ({{% resource_link "f97fe3a9-55da-4a30-bf54-fea365cbcd51" "PDF" %}}) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
