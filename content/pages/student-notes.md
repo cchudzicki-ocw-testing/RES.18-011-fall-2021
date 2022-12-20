@@ -5,7 +5,7 @@ draft: false
 title: Student Notes
 uid: b93c06e3-f425-4105-842c-cf60376de18f
 ---
-Complete Set of Algebra I Notes in One File ({{% resource_link "fd277863-8b92-4b85-936d-8fc84c7c1fd4" "PDF" %}}), TEX files and associated images ({{% resource_link "cd8116a5-ff23-422e-a258-986405371840" "ZIP" %}})
+Complete Set of Algebra I Notes in One File ({{% resource_link "751a5987-161e-433e-bb76-37afc395c859" "PDF" %}}), TEX files and associated images ({{% resource_link "cd8116a5-ff23-422e-a258-986405371840" "ZIP" %}})
 
 Lecture 1: Groups ({{% resource_link "d2912b22-ad88-48d8-8962-0a1044e9d601" "PDF" %}}) ({{% resource_link "a3d293ad-a504-4908-b8d4-cff9a19767ab" "TEX" %}})
 
