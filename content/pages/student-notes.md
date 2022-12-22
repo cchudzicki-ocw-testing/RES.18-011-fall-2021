@@ -65,14 +65,14 @@ Lecture 28: The Spectral Theorem ({{% resource_link "3f6d5c24-9773-4ce6-a813-2df
 
 Lecture 29: Linear Groups ({{% resource_link "853e89ba-bee7-486e-bac8-7b197093a6a3" "PDF" %}}) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
 
-Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
+Lecture 30: The Special Unitary Group \\(SU_2\\) ({{% resource_link "93a65ee3-d2d3-4a9b-956f-884156b2864d" "PDF" %}}) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
 
-Lecture 31: One-Parameter Subgroups (PDF) ({{% resource_link "0e22af3c-690e-4dd4-ac70-2b3a10eebb54" "TEX" %}})
+Lecture 31: One-Parameter Subgroups ({{% resource_link "e7c15b52-ea8e-4564-bea7-03c456b0520d" "PDF" %}}) ({{% resource_link "0e22af3c-690e-4dd4-ac70-2b3a10eebb54" "TEX" %}})
 
-Lecture 32: One-Parameter Subgroups (cont.) (PDF) ({{% resource_link "909510f2-852f-4d0b-b6d9-2667700424d5" "TEX" %}})
+Lecture 32: One-Parameter Subgroups (cont.) ({{% resource_link "7ad7d274-51c8-4709-865b-e1930e7152d4" "PDF" %}}) ({{% resource_link "909510f2-852f-4d0b-b6d9-2667700424d5" "TEX" %}})
 
-Lecture 33: Lie Groups (PDF) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
+Lecture 33: Lie Groups ({{% resource_link "79f75c7f-cb70-43bc-bc95-1f923c537c3e" "PDF" %}}) ({{% resource_link "a0e1b468-904c-485c-96c0-b00544051695" "TEX" %}})
 
-Lecture 34: Simple Linear Groups (PDF) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
+Lecture 34: Simple Linear Groups ({{% resource_link "0cc9be3e-593b-47a3-af54-580a4b6968af" "PDF" %}}) ({{% resource_link "d9e2896b-aeb3-4e7f-ac4e-2879d4ca9741" "TEX" %}})
 
-Lecture 35: Hilbert’s Third Problem (PDF) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
+Lecture 35: Hilbert’s Third Problem ({{% resource_link "43781076-772e-4eeb-b334-c67010c2c343" "PDF" %}}) ({{% resource_link "e6283ec6-9a3d-4f2a-9a44-23666104e8f8" "TEX" %}})
