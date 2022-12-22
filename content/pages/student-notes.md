@@ -27,25 +27,25 @@ Lecture 9: Dimension Formula (continued) ({{% resource_link "24fa2166-7989-419f-
 
 Lecture 10: Eigenbases and the Jordan Form ({{% resource_link "70e3c672-bfbe-41d6-867f-0307f489c216" "PDF" %}}) ({{% resource_link "cd553dbc-b399-4059-9ab7-f6e39a4a7421" "TEX" %}})
 
-Lecture 11: The Jordan Decomposition (PDF) ({{% resource_link "7daf9993-f4eb-4d5c-908a-be2dc263d9b6" "TEX" %}})
+Lecture 11: The Jordan Decomposition ({{% resource_link "c0f3db41-bf18-4017-89ae-945bbab37c16" "PDF" %}}) ({{% resource_link "7daf9993-f4eb-4d5c-908a-be2dc263d9b6" "TEX" %}})
 
-Lecture 12: Orthogonal Matrices (PDF) ({{% resource_link "8df8d30f-7254-432c-8d0c-c9da7bc4a730" "TEX" %}})
+Lecture 12: Orthogonal Matrices ({{% resource_link "fb20fb51-5df5-490c-be65-a3909e9ff725" "PDF" %}}) ({{% resource_link "8df8d30f-7254-432c-8d0c-c9da7bc4a730" "TEX" %}})
 
-Lecture 13: Isometries (PDF) ({{% resource_link "06e0b565-0f5d-4cf1-b4ac-dcac12440134" "TEX" %}})
+Lecture 13: Isometries ({{% resource_link "9c985944-9a2b-4ff9-9eb2-b5eab4aa617f" "PDF" %}}) ({{% resource_link "06e0b565-0f5d-4cf1-b4ac-dcac12440134" "TEX" %}})
 
-Lecture 14: Symmetry Groups (PDF) ({{% resource_link "e867c2c6-1025-4690-94d3-63b0cff64612" "TEX" %}})
+Lecture 14: Symmetry Groups ({{% resource_link "5b4ef165-9daf-48ef-bb06-2644dda0d2a8" "PDF" %}}) ({{% resource_link "e867c2c6-1025-4690-94d3-63b0cff64612" "TEX" %}})
 
-Lecture 15: Finite and Discrete Subgroups (PDF) ({{% resource_link "3d453e34-2544-49fe-a98e-a96a618ef673" "TEX" %}})
+Lecture 15: Finite and Discrete Subgroups ({{% resource_link "6bc52df1-f8b2-4e46-81c0-713b745a1cce" "PDF" %}}) ({{% resource_link "3d453e34-2544-49fe-a98e-a96a618ef673" "TEX" %}})
 
-Lecture 16: Discrete Groups (PDF) ({{% resource_link "ac0d8dc1-63b2-471a-b386-aa5e3f8ea7ee" "TEX" %}})
+Lecture 16: Discrete Groups ({{% resource_link "1f0608cd-913d-473a-a677-9dfeb421dc24" "PDF" %}}) ({{% resource_link "ac0d8dc1-63b2-471a-b386-aa5e3f8ea7ee" "TEX" %}})
 
-Lecture 17: Group Actions (PDF) ({{% resource_link "158450be-af9e-48af-99b8-c1f26b46bd65" "TEX" %}})
+Lecture 17: Group Actions ({{% resource_link "4a3e321d-3b8d-4554-9b03-87503dd42aee" "PDF" %}}) ({{% resource_link "158450be-af9e-48af-99b8-c1f26b46bd65" "TEX" %}})
 
-Lecture 18: Stabilizer (PDF) ({{% resource_link "127ea364-643b-4b0e-8eec-47318e3caa54" "TEX" %}})
+Lecture 18: Stabilizer ({{% resource_link "18ff85c5-db27-4013-8e5b-777a7fab7e41" "PDF" %}}) ({{% resource_link "127ea364-643b-4b0e-8eec-47318e3caa54" "TEX" %}})
 
-Lecture 19: Group Actions on G (PDF) ({{% resource_link "2efca5b8-d1c7-499c-951f-8d82e8f3caf4" "TEX" %}})
+Lecture 19: Group Actions on G ({{% resource_link "7a55aa5f-ff77-46a2-ab53-feb2d8bd6598" "PDF" %}}) ({{% resource_link "2efca5b8-d1c7-499c-951f-8d82e8f3caf4" "TEX" %}})
 
-Lecture 20: The Icosahedral Group (PDF) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
+Lecture 20: The Icosahedral Group ({{% resource_link "3f7b9439-d8c7-4c8e-89d4-a86ddb25b322" "PDF" %}}) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
 
 Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups (PDF) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
 
