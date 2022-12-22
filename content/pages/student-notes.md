@@ -47,23 +47,23 @@ Lecture 19: Group Actions on G ({{% resource_link "7a55aa5f-ff77-46a2-ab53-feb2d
 
 Lecture 20: The Icosahedral Group ({{% resource_link "3f7b9439-d8c7-4c8e-89d4-a86ddb25b322" "PDF" %}}) ({{% resource_link "8987b719-d1f9-4c7a-9c0c-3aa134455033" "TEX" %}})
 
-Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups (PDF) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
+Lecture 21: Conjugacy Classes for Symmetric and Alternating Groups ({{% resource_link "c8a4377b-6bb3-4b4f-a60f-4beef67e2b6e" "PDF" %}}) ({{% resource_link "09a4f479-956a-4471-994d-bd2cf8a48f08" "TEX" %}})
 
-Lecture 22: The Sylow Theorems (PDF) ({{% resource_link "3238c3e0-c507-414b-9b2c-ffd8160fce49" "TEX" %}})
+Lecture 22: The Sylow Theorems ({{% resource_link "3883b63c-2f3e-42fa-9a1d-fbf2119711ec" "PDF" %}}) ({{% resource_link "3238c3e0-c507-414b-9b2c-ffd8160fce49" "TEX" %}})
 
-Lecture 23: Proofs and Applications of the Sylow Theorems (PDF) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
+Lecture 23: Proofs and Applications of the Sylow Theorems ({{% resource_link "58772d47-224f-4a24-935c-96b2638a5d92" "PDF" %}}) ({{% resource_link "9a973929-e86f-4a4c-ac85-2188ec6bef67" "TEX" %}})
 
-Lecture 24: Bilinear Forms (PDF) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
+Lecture 24: Bilinear Forms ({{% resource_link "f5740a6b-9b4c-49a2-a359-f6524288e72b" "PDF" %}}) ({{% resource_link "525e5b96-c716-40dc-9251-7e2d71ccc948" "TEX" %}})
 
-Lecture 25: Orthogonality (PDF) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
+Lecture 25: Orthogonality ({{% resource_link "aa1f2311-91f2-41d5-ba6e-a0b0a6200dbf" "PDF" %}}) ({{% resource_link "e5d70bee-038b-42f4-b7d2-a48d1deaf532" "TEX" %}})
 
-Lecture 26: The Projection Formula (PDF) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
+Lecture 26: The Projection Formula ({{% resource_link "bcda969a-6c84-40c5-ac2a-a8c00170cac8" "PDF" %}}) ({{% resource_link "58eddb05-a066-4670-9d5d-ea0a5ddb0d31" "TEX" %}})
 
-Lecture 27: Euclidean and Hermitian Spaces (PDF) ({{% resource_link "5b7cb0cd-208d-4f32-9be7-48963670aac8" "TEX" %}})
+Lecture 27: Euclidean and Hermitian Spaces ({{% resource_link "7815c43e-c56a-471d-831c-d8accb7d909e" "PDF" %}}) ({{% resource_link "5b7cb0cd-208d-4f32-9be7-48963670aac8" "TEX" %}})
 
-Lecture 28: The Spectral Theorem (PDF) ({{% resource_link "4aa08fb1-c54c-4d57-9660-43014c6ce7e0" "TEX" %}})
+Lecture 28: The Spectral Theorem ({{% resource_link "3f6d5c24-9773-4ce6-a813-2df9154e2b71" "PDF" %}}) ({{% resource_link "4aa08fb1-c54c-4d57-9660-43014c6ce7e0" "TEX" %}})
 
-Lecture 29: Linear Groups (PDF) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
+Lecture 29: Linear Groups ({{% resource_link "853e89ba-bee7-486e-bac8-7b197093a6a3" "PDF" %}}) ({{% resource_link "95a1a4c8-1a11-4689-b763-68509cd9b726" "TEX" %}})
 
 Lecture 30: The Special Unitary Group \\(SU_2\\) (PDF) ({{% resource_link "6f30bbb0-9772-4a54-b462-3bc541915c70" "TEX" %}})
 
